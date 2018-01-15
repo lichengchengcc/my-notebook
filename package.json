@@ -1,0 +1,21 @@
+{
+  "name": "my-notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d _book"
+  },
+  "homepage": "https://github.com/lichengchengcc/my-notebook#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichengchengcc/my-notebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lichengchengcc/my-notebook/issues"
+  },
+  "homepage": "https://github.com/lichengchengcc/my-notebook#readme"
+}
