@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy":"gh-pages -d _book"
+    "deploy": "gh-pages -d _book"
   },
   "homepage": "https://github.com/lichengchengcc/my-notebook#readme",
   "repository": {
@@ -17,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/lichengchengcc/my-notebook/issues"
   },
-  "homepage": "https://github.com/lichengchengcc/my-notebook#readme"
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
 }
